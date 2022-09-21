@@ -1,0 +1,4 @@
+#Wed Sep 21 08:21:18 IST 2022
+base.0=/Users/uday/Desktop/Development/aquiz_app/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
